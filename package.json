@@ -1,0 +1,29 @@
+{
+  "name": "reacttv-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"vite",
+    "build":"vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B9ary01/reactTv-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B9ary01/reactTv-App/issues"
+  },
+  "homepage": "https://github.com/B9ary01/reactTv-App#readme",
+  "devDependencies": {
+    "vite": "^3.0.9"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
